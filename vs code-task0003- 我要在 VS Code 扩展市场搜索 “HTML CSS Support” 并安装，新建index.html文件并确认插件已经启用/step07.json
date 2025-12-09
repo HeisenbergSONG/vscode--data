@@ -1,0 +1,25 @@
+{
+    "name": "step07_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
+        "step_description": "鼠标左键单击文件管理器按钮,位于屏幕左上角,左边菜单栏第一个,堆叠纸张形状的按钮,用于打开文件管理器",
+        "element": {
+            "element_position": {
+                "x1": 14,
+                "y1": 61,
+                "x2": 53,
+                "y2": 103
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 7,
+        "task_id": "0003"
+    }
+}

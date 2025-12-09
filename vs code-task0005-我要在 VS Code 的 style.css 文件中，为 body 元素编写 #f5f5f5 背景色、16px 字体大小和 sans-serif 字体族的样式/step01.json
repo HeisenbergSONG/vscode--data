@@ -1,0 +1,25 @@
+{
+    "name": "step01_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 的 style.css 文件中，为 body 元素编写 #f5f5f5 背景色、16px 字体大小和 sans-serif 字体族的样式",
+        "step_description": "鼠标左键单击紫色文件'style.css', 位于屏幕左上角'src'文件夹内第一个文件,用于打开样式文件.",
+        "element": {
+            "element_position": {
+                "x1": 66,
+                "y1": 160,
+                "x2": 488,
+                "y2": 186
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 1,
+        "task_id": "0005"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "step01_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1600
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 的新建 index.html 文件并输入 “!” 并按下 Tab 键，快速生成包含 DOCTYPE 和元标签的 HTML5 标准模板",
+        "step_description": "左键双击VS code ，它位于屏幕左下方，是一个是一个蓝色的，带有Visual Studio Code的图标，用来打开Visual Studio Code，有Visual Studio Code的图标，用来打开Visual Studio Code。",
+        "element": {
+            "element_position": {
+                "x1": 347,
+                "y1": 1221,
+                "x2": 466,
+                "y2": 1345
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "DOUBLE_CLICK",
+        "value": "NONE",
+        "step_id": 1,
+        "task_id": "0002"
+    }
+}

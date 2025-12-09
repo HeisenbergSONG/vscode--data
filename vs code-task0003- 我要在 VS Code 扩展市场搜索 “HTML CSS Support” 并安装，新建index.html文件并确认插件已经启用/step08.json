@@ -1,0 +1,25 @@
+{
+    "name": "step08_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
+        "step_description": "鼠标左键单击文件夹'src',位于屏幕左上角,绿色文件夹图案,带有'src'字样,用于激活文件夹'src'",
+        "element": {
+            "element_position": {
+                "x1": 66,
+                "y1": 127,
+                "x2": 472,
+                "y2": 161
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 8,
+        "task_id": "0003"
+    }
+}

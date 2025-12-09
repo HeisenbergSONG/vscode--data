@@ -1,0 +1,17 @@
+{
+    "name": "step09_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1600
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 的新建 index.html 文件并输入 “!” 并按下 Tab 键，快速生成包含 DOCTYPE 和元标签的 HTML5 标准模板",
+        "step_description": "当前是我要在 VS Code 的新建 index.html 文件并输入 “!” 并按下 Tab 键，快速生成包含 DOCTYPE 和元标签的 HTML5 标准模板的结果页面。",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "step_id": 9,
+        "task_id": "0002"
+    }
+}

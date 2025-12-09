@@ -1,0 +1,25 @@
+{
+    "name": "step11_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
+        "step_description": "热键'Enter',用于确认命名及激活文件",
+        "element": {
+            "element_position": {
+                "x1": 145,
+                "y1": 161,
+                "x2": 471,
+                "y2": 191
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "HOTKEY",
+        "value": "Enter",
+        "step_id": 11,
+        "task_id": "0003"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "name": "step12_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 的 index.html 文件的head标签内，通过 link 标签的 rel=stylesheet 属性关联 assetscssstyle.css 样式文件",
+        "step_description": "当前为我要在 VS Code 的 index.html 文件的<head>标签内，通过 link 标签的 rel=\"stylesheet\" 属性关联 assets/css/style.css 样式文件的结果页面",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "task_id": "0004"
+    }
+}

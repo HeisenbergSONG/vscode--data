@@ -1,0 +1,25 @@
+{
+    "name": "step09_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
+        "step_description": "鼠标左键双击'src'文件夹下方同高度空白区域,位于屏幕左上角,绿色文件夹'src'下方同高度,用于创建文件'index.html'.",
+        "element": {
+            "element_position": {
+                "x1": 69,
+                "y1": 156,
+                "x2": 472,
+                "y2": 184
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "DOUBLE_CLICK",
+        "value": "NONE",
+        "step_id": 9,
+        "task_id": "0003"
+    }
+}

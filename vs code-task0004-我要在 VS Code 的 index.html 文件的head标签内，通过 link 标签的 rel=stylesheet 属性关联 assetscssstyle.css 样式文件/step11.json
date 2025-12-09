@@ -1,0 +1,25 @@
+{
+    "name": "step10_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 的 index.html 文件的head标签内，通过 link 标签的 rel=stylesheet 属性关联 assetscssstyle.css 样式文件",
+        "step_description": "鼠标左键单击<head>标签内有1tabal距离的空白处,用于在 head 标签内添加 link 标签关联样式文件.",
+        "element": {
+            "element_position": {
+                "x1": 632,
+                "y1": 290,
+                "x2": 2534,
+                "y2": 317
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 11,
+        "task_id": "0004"
+    }
+}

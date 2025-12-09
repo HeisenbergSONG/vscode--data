@@ -1,0 +1,25 @@
+{
+    "name": "step02_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 的 index.html 文件的head标签内，通过 link 标签的 rel=stylesheet 属性关联 assetscssstyle.css 样式文件",
+        "step_description": "鼠标左键'新建文件夹'按钮,位于屏幕左上部分,弹窗第二个按钮,带有'新建文件夹'字样,用于新建文件夹.",
+        "element": {
+            "element_position": {
+                "x1": 247,
+                "y1": 179,
+                "x2": 705,
+                "y2": 216
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 2,
+        "task_id": "0004"
+    }
+}

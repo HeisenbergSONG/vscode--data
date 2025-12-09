@@ -1,0 +1,25 @@
+{
+    "name": "step05_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
+        "step_description": "鼠标左键单击'安装'按钮,位于屏幕顶部偏左位置,带有'按钮字样',用于安装插件.",
+        "element": {
+            "element_position": {
+                "x1": 825,
+                "y1": 260,
+                "x2": 872,
+                "y2": 296
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 5,
+        "task_id": "0003"
+    }
+}

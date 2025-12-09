@@ -1,0 +1,17 @@
+{
+    "name": "step14_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
+        "step_description": "当前是 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用的结果页面",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "step_id": 14,
+        "task_id": "0003"
+    }
+}

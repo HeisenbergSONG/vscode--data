@@ -1,0 +1,17 @@
+{
+    "name": "step07_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 当前工作区的 src 目录下新建 “index.html” 文件，用于编写网页首页的基础结构",
+        "step_description": "当前是我要在 VS Code 当前工作区的 src 目录下新建“index.htm”文件，用于编写网页首页的基础结构的结果页面。",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "step_id": 6,
+        "task_id": "0001"
+    }
+}

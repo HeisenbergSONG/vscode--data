@@ -1,0 +1,25 @@
+{
+    "name": "step01_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 当前工作区的 src 目录下新建 “index.html” 文件，用于编写网页首页的基础结构",
+        "step_description": "鼠标左键双击VS Code软件，该按钮位于屏幕左侧中间，是蓝色丝带图标，用于打开该软件。",
+        "element": {
+            "element_position": {
+                "x1": 456,
+                "y1": 701,
+                "x2": 513,
+                "y2": 793
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "DOUBLE_CLICK",
+        "value": "NONE",
+        "step_id": 1,
+        "task_id": "0001"
+    }
+}

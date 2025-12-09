@@ -1,0 +1,25 @@
+{
+    "name": "step04_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "我要在 VS Code 当前工作区的 src 目录下新建 “index.html” 文件，用于编写网页首页的基础结构",
+        "step_description": "鼠标左键双击'src'文件夹下方同高度空白区域,位于屏幕左上方绿色文件夹图标带有'src'字样的下方,用于创建index.html文件",
+        "element": {
+            "element_position": {
+                "x1": 68,
+                "y1": 160,
+                "x2": 471,
+                "y2": 187
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "DOUBLE_CLICK",
+        "value": "NONE",
+        "step_id": 3,
+        "task_id": "0001"
+    }
+}

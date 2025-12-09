@@ -1,0 +1,25 @@
+{
+  "name": "step01_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "我要在 VS Code 的 index.html 文件的head标签内，通过 link 标签的 rel=stylesheet 属性关联 assetscssstyle.css 样式文件",
+    "step_description": "鼠标右键点击文件夹src\\assets,位于屏幕左上角带有src\\assets字样的文件夹图标,用于打开右键菜单.",
+    "element": {
+      "element_position": {
+        "x1": 67,
+        "y1": 126,
+        "x2": 487,
+        "y2": 160
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "RIGHT_CLICK",
+    "value": "NONE",
+    "step_id": 5,
+    "task_id": "0004"
+  }
+}
