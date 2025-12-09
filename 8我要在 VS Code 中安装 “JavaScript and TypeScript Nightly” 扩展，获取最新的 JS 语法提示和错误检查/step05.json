@@ -1,0 +1,23 @@
+{
+  "name": "step05_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击'安装'按钮,位于屏幕中间偏上,插件详情页面中,插件图标右侧,用于安装该插件。",
+    "element": {
+      "element_position": {
+        "x1": 841,
+        "y1": 262,
+        "x2": 887,
+        "y2": 291
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "step07_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击文件'app.js',位于屏幕左侧偏上,资源管理器面板中,文件列表区域,黄色文件夹'js'下方第一个,用于打开该文件。",
+    "element": {
+      "element_position": {
+        "x1": 135,
+        "y1": 284,
+        "x2": 489,
+        "y2": 313
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

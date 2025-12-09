@@ -1,0 +1,15 @@
+{
+  "name": "step08_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "我要在 VS Code 中安装 “JavaScript and TypeScript Nightly” 扩展并检验是否安装成功",
+    "step_description": "当前为我要在 VS Code 中安装 “JavaScript and TypeScript Nightly” 扩展并检验是否安装成功结果页面",
+    "status": "Finish",
+    "tag": "Normal",
+    "action": "Finish",
+    "value": "NONE"
+  }
+}

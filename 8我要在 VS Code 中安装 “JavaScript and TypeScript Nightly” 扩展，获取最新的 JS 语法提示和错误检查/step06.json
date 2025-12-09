@@ -1,0 +1,23 @@
+{
+  "name": "step06_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击资源管理器按钮,位于屏幕左上角,左侧菜单栏中第一个,图标由两个文件组成,用于打开资源管理器。",
+    "element": {
+      "element_position": {
+        "x1": 10,
+        "y1": 59,
+        "x2": 54,
+        "y2": 105
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

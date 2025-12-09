@@ -1,0 +1,23 @@
+{
+  "name": "step04_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击目标插件按钮,位于屏幕左上角,插件市场页面搜索结果列表中的第一个插件,用于打开该插件详情页面。",
+    "element": {
+      "element_position": {
+        "x1": 65,
+        "y1": 148,
+        "x2": 486,
+        "y2": 255
+      }
+    },
+    "status": "Continue",
+    "tag": "Uncertain_bbx",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}
