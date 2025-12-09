@@ -1,0 +1,23 @@
+{
+  "name": "step01_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0006",
+    "step_description": "鼠标左键单击工作区根目录,位于屏幕左上角带有001字样的文件夹图标,用于激活工作区根目录.",
+    "element": {
+      "element_position": {
+        "x1": 68,
+        "y1": 130,
+        "x2": 491,
+        "y2": 159
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "step11_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击文件夹'js'，位于屏幕左侧，黄色带有'js'字样的文件夹,用于打开文件'js'。",
+    "element": {
+      "element_position": {
+        "x1": 102,
+        "y1": 256,
+        "x2": 488,
+        "y2": 280
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

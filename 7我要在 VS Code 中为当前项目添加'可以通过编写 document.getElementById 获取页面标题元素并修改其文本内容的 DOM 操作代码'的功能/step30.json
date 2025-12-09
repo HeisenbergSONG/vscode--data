@@ -1,0 +1,23 @@
+{
+  "name": "step30_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "输入文本'// 修改浏览器标签页的标题'，位于屏幕上方,第一个函数内,该文件第六行1table宽度处,用于添加注释说明。",
+    "element": {
+      "element_position": {
+        "x1": 631,
+        "y1": 317,
+        "x2": 2424,
+        "y2": 342
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "TYPE",
+    "value": "// 修改浏览器标签页的标题"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "step32_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "输入文本'document.title = '欢迎来到我的网站';'，位于屏幕上方,第一个函数内,该文件第六行1table宽度处,用于修改浏览器标签页的标题。",
+    "element": {
+      "element_position": {
+        "x1": 630,
+        "y1": 338,
+        "x2": 2422,
+        "y2": 370
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "TYPE",
+    "value": "document.title = '欢迎来到我的网站';"
+  }
+}

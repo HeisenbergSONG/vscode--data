@@ -1,0 +1,23 @@
+{
+  "name": "step05_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "输入文本'app.js'作为新建文件的名称,位于屏幕左上角带有js字样的黄色文件夹图标下方,用于为文件夹命名.",
+    "element": {
+      "element_position": {
+        "x1": 168,
+        "y1": 254,
+        "x2": 489,
+        "y2": 285
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "TYPE",
+    "value": "app.js"
+  }
+}

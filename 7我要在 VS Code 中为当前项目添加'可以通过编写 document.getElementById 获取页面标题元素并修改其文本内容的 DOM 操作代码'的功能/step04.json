@@ -1,0 +1,23 @@
+{
+  "name": "step04_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击页面标签<body>中间空白处，位于屏幕中央偏上位置，标签<body>中间一行空1tabale宽度,用于添加可被操作的标题元素。",
+    "element": {
+      "element_position": {
+        "x1": 631,
+        "y1": 369,
+        "x2": 2425,
+        "y2": 396
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

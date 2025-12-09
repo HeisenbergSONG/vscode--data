@@ -1,0 +1,23 @@
+{
+  "name": "step09_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "热键'Enter',用于换行。",
+    "element": {
+      "element_position": {
+        "x1": 630,
+        "y1": 424,
+        "x2": 2423,
+        "y2": 448
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "HOTKEY",
+    "value": "Enter"
+  }
+}
