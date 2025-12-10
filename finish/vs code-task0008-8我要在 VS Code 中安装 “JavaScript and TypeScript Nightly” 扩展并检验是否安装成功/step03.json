@@ -1,0 +1,25 @@
+{
+    "name": "step03_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "8我要在 VS Code 中安装 “JavaScript and TypeScript Nightly” 扩展并检验是否安装成功",
+        "step_description": "输入文本'JavaScript and TypeScript Nightly'，位于屏幕左上角,插件市场页面顶部中央位置的搜索框内,用于搜索插件。",
+        "element": {
+            "element_position": {
+                "x1": 94,
+                "y1": 103,
+                "x2": 443,
+                "y2": 137
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "TYPE",
+        "value": "JavaScript and TypeScript Nightly",
+        "step_id": 3,
+        "task_id": "0008"
+    }
+}

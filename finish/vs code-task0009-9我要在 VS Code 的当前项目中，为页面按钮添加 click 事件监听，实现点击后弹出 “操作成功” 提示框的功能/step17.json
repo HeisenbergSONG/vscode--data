@@ -1,0 +1,25 @@
+{
+    "name": "step17_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "9我要在 VS Code 的当前项目中，为页面按钮添加 click 事件监听，实现点击后弹出 “操作成功” 提示框的功能",
+        "step_description": "热键'←'，用于将光标移动到判断函数的左括号前。",
+        "element": {
+            "element_position": {
+                "x1": 631,
+                "y1": 448,
+                "x2": 2425,
+                "y2": 475
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "HOTKEY",
+        "value": "←",
+        "step_id": 17,
+        "task_id": "0009"
+    }
+}

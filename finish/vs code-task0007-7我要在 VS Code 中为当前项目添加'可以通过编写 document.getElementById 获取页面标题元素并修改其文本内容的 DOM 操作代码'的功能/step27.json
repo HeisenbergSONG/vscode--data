@@ -1,0 +1,25 @@
+{
+    "name": "step27_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "7我要在 VS Code 中为当前项目添加'可以通过编写 document.getElementById 获取页面标题元素并修改其文本内容的 DOM 操作代码'的功能",
+        "step_description": "鼠标左键单击，位于屏幕上方,第一个函数内,该文件第五行1table宽度处的符号'}'后,用于定位光标位置。",
+        "element": {
+            "element_position": {
+                "x1": 643,
+                "y1": 263,
+                "x2": 2422,
+                "y2": 291
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 27,
+        "task_id": "0007"
+    }
+}

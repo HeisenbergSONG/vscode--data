@@ -1,0 +1,25 @@
+{
+    "name": "step01_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "9我要在 VS Code 的当前项目中，为页面按钮添加 click 事件监听，实现点击后弹出 “操作成功” 提示框的功能",
+        "step_description": "鼠标左键单击当前项目根目录'001'.位于屏幕左上角,资源管理器面板中,文件列表区域顶部第一个,带有'001'字样,用于打开根目录。",
+        "element": {
+            "element_position": {
+                "x1": 65,
+                "y1": 158,
+                "x2": 488,
+                "y2": 192
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 1,
+        "task_id": "0009"
+    }
+}

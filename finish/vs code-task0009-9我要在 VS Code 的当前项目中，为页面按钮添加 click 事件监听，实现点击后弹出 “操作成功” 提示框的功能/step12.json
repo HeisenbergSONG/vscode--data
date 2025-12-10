@@ -1,0 +1,25 @@
+{
+    "name": "step12_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "9我要在 VS Code 的当前项目中，为页面按钮添加 click 事件监听，实现点击后弹出 “操作成功” 提示框的功能",
+        "step_description": "输入文本'// 为按钮添加点击事件（保留之前的逻辑）'位于屏幕中间偏上位置,文件第11行距离1table宽度处,用于为下面的代码注释。",
+        "element": {
+            "element_position": {
+                "x1": 629,
+                "y1": 395,
+                "x2": 2427,
+                "y2": 427
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "TYPE",
+        "value": "// 为按钮添加点击事件（保留之前的逻辑）",
+        "step_id": 12,
+        "task_id": "0009"
+    }
+}

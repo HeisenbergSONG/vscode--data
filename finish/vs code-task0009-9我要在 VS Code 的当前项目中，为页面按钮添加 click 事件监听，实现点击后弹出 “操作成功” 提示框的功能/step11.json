@@ -1,0 +1,25 @@
+{
+    "name": "step11_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "9我要在 VS Code 的当前项目中，为页面按钮添加 click 事件监听，实现点击后弹出 “操作成功” 提示框的功能",
+        "step_description": "热键'Enter'，用于换行。",
+        "element": {
+            "element_position": {
+                "x1": 1458,
+                "y1": 626,
+                "x2": 1458,
+                "y2": 626
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "HOTKEY",
+        "value": "Enter",
+        "step_id": 11,
+        "task_id": "0009"
+    }
+}

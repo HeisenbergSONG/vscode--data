@@ -1,0 +1,25 @@
+{
+    "name": "step06_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "6我要在 VS Code 工作区的 srcjs 目录下新建 “app.js” 文件，用于编写页面交互和数据处理逻辑",
+        "step_description": "热键'Enter',用于确认命名及激活文件编辑状态.",
+        "element": {
+            "element_position": {
+                "x1": 168,
+                "y1": 254,
+                "x2": 489,
+                "y2": 285
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "HOTKEY",
+        "value": "Enter",
+        "step_id": 6,
+        "task_id": "0006"
+    }
+}

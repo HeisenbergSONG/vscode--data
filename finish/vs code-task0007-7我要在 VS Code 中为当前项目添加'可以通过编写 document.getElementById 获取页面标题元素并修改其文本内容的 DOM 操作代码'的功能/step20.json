@@ -1,0 +1,25 @@
+{
+    "name": "step20_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "7我要在 VS Code 中为当前项目添加'可以通过编写 document.getElementById 获取页面标题元素并修改其文本内容的 DOM 操作代码'的功能",
+        "step_description": "热键'Enter',用于换行。",
+        "element": {
+            "element_position": {
+                "x1": 623,
+                "y1": 157,
+                "x2": 2422,
+                "y2": 182
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "HOTKEY",
+        "value": "Enter",
+        "step_id": 20,
+        "task_id": "0007"
+    }
+}

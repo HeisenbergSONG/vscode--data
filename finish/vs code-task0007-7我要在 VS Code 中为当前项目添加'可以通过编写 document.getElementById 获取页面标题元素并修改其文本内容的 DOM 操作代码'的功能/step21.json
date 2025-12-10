@@ -1,0 +1,25 @@
+{
+    "name": "step21_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "7我要在 VS Code 中为当前项目添加'可以通过编写 document.getElementById 获取页面标题元素并修改其文本内容的 DOM 操作代码'的功能",
+        "step_description": "输入文本'const pageTitle = document.getElementById('title');',位于屏幕上方,该文件第3行函数中间距离1table宽度处,用于声明变量pageTitle并通过document.getElementById获取页面标题元素",
+        "element": {
+            "element_position": {
+                "x1": 631,
+                "y1": 182,
+                "x2": 2429,
+                "y2": 210
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "TYPE",
+        "value": "const pageTitle = document.getElementById('title');",
+        "step_id": 21,
+        "task_id": "0007"
+    }
+}

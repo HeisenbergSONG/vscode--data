@@ -1,0 +1,17 @@
+{
+    "name": "step20_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "9我要在 VS Code 的当前项目中，为页面按钮添加 click 事件监听，实现点击后弹出 “操作成功” 提示框的功能",
+        "step_description": "当前为我要在 VS Code 的 app.js 中，为页面按钮添加 click 事件监听，实现点击后弹出 “操作成功” 提示框的效果的结果页面",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "step_id": 20,
+        "task_id": "0009"
+    }
+}
