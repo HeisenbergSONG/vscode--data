@@ -1,5 +1,5 @@
 {
-    "name": "step06_ori.png",
+    "name": "step07_ori.png",
     "resolution": {
         "width": 2560,
         "height": 1440
@@ -19,7 +19,7 @@
         "tag": "Normal",
         "action": "TYPE",
         "value": "css",
-        "step_id": 6,
+        "step_id": 7,
         "task_id": "0004"
     }
 }
