@@ -1,0 +1,23 @@
+{
+  "name": "step04_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击文件第10行最后一个字符后,位于屏幕中央偏上,代码编辑器面板中<body>标签中,代码区域第10行末尾,用于在该位置插入光标。",
+    "element": {
+      "element_position": {
+        "x1": 926,
+        "y1": 371,
+        "x2": 2425,
+        "y2": 393
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

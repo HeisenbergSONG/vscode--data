@@ -1,0 +1,23 @@
+{
+  "name": "step06_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "文本输入'<button id=\"myButton\">点击我</button>'，位于屏幕中央偏上,代码编辑器面板中<body>标签内,代码区域第11行,用于添加一个按钮元素。",
+    "element": {
+      "element_position": {
+        "x1": 630,
+        "y1": 395,
+        "x2": 2425,
+        "y2": 422
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "TYPE",
+    "value": "<button id=\"myButton\">点击我</button>"
+  }
+}

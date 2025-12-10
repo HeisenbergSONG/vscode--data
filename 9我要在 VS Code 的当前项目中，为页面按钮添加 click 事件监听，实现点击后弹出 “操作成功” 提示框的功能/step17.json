@@ -1,0 +1,23 @@
+{
+  "name": "step17_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "热键'←'，用于将光标移动到判断函数的左括号前。",
+    "element": {
+      "element_position": {
+        "x1": 631,
+        "y1": 448,
+        "x2": 2425,
+        "y2": 475
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "HOTKEY",
+    "value": "←"
+  }
+}

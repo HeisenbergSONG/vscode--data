@@ -1,0 +1,23 @@
+{
+  "name": "step07_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "鼠标左键单击文件夹'js',位于屏幕左上角,资源管理器面板中,文件列表区域倒数第二个,带有黄色文件夹图标'js'字样,用于打开'js'文件夹。",
+    "element": {
+      "element_position": {
+        "x1": 93,
+        "y1": 254,
+        "x2": 487,
+        "y2": 283
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "LEFT_CLICK",
+    "value": "NONE"
+  }
+}

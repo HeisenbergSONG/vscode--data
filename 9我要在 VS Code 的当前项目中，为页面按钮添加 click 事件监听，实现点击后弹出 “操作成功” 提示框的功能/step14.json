@@ -1,0 +1,23 @@
+{
+  "name": "step14_ori.png",
+  "resolution": {
+    "width": 2560,
+    "height": 1440
+  },
+  "task_info": {
+    "task_description": "0000",
+    "step_description": "输入文本'const button = document.getElementById('myButton');'位于屏幕中间偏上位置,文件第12行距离1table宽度处,用于获取按钮元素。",
+    "element": {
+      "element_position": {
+        "x1": 630,
+        "y1": 422,
+        "x2": 2425,
+        "y2": 448
+      }
+    },
+    "status": "Continue",
+    "tag": "Normal",
+    "action": "TYPE",
+    "value": "const button = document.getElementById('myButton');"
+  }
+}
