@@ -18,7 +18,7 @@
         "status": "Continue",
         "tag": "Normal",
         "action": "HOTKEY",
-        "value": "Eenter",
+        "value": "Enter",
         "step_id": 9,
         "task_id": "0005"
     }

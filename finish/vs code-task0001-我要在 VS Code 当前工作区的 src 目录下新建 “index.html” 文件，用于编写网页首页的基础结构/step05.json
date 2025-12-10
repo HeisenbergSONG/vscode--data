@@ -1,5 +1,5 @@
 {
-    "name": "step06_ori.png",
+    "name": "step05_ori.png",
     "resolution": {
         "width": 2560,
         "height": 1440
@@ -18,7 +18,7 @@
         "status": "Continue",
         "tag": "Normal",
         "action": "HOTKEY",
-        "value": "Eenter",
+        "value": "Enter",
         "step_id": 5,
         "task_id": "0001"
     }

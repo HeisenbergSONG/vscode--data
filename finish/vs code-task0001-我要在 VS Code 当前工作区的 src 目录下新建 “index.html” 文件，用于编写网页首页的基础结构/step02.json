@@ -1,12 +1,12 @@
 {
-    "name": "step03_ori.png",
+    "name": "step02_ori.png",
     "resolution": {
         "width": 2560,
         "height": 1440
     },
     "task_info": {
         "task_description": "我要在 VS Code 当前工作区的 src 目录下新建 “index.html” 文件，用于编写网页首页的基础结构",
-        "step_description": "鼠标左键单击str文件夹，该文件夹位于屏幕左上方，写有str字样，用于激活str文件夹。",
+        "step_description": "鼠标左键单击src文件夹，该文件夹位于屏幕左上方，写有src字样，用于激活src文件夹。",
         "element": {
             "element_position": {
                 "x1": 66,

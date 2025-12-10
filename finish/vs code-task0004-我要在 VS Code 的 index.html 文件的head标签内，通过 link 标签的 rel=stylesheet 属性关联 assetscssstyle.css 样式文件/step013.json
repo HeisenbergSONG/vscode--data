@@ -1,5 +1,5 @@
 {
-    "name": "step12_ori.png",
+    "name": "step13_ori.png",
     "resolution": {
         "width": 2560,
         "height": 1440
@@ -11,6 +11,7 @@
         "tag": "Normal",
         "action": "Finish",
         "value": "NONE",
+        "step_id": 14,
         "task_id": "0004"
     }
 }

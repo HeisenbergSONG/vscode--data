@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": " 我要在 VS Code 扩展市场搜索 “HTML CSS Support” 并安装，新建index.html文件并确认插件已经启用",
-        "step_description": "输入文本'HTML CSS Support',位于屏幕左上角,带有'在应用商店中搜锁扩展的'字样,用于搜索扩展.",
+        "step_description": "在输入框输入文本'HTML CSS Support',该输入框位于屏幕左上角,带有'在应用商店中搜锁扩展的'字样,用于搜索扩展.",
         "element": {
             "element_position": {
                 "x1": 95,

@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "我要在 VS Code 的新建 index.html 文件并输入 “!” 并按下 Tab 键，快速生成包含 DOCTYPE 和元标签的 HTML5 标准模板",
-        "step_description": "输入文本index.html，它位于屏幕中上方，它是显示选择文件类型或输入文件名的输入框，目的是输入搜索内容。,它位于屏幕中上方，它是显示选择文件类型或输入文件名的输入框，目的是输入搜索内容。",
+        "step_description": "输入文本index.html，它位于屏幕中上方，它是显示选择文件类型或输入文件名的输入框，目的是输入搜索内容。",
         "element": {
             "element_position": {
                 "x1": 741,
