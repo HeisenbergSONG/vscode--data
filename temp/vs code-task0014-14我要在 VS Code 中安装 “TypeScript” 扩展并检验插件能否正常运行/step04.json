@@ -15,9 +15,9 @@
                 "y2": 901
             }
         },
-        "status": "Continue",
+        "status": "Finish",
         "tag": "ERROR",
-        "action": "LEFT_CLICK",
+        "action": "Finish",
         "value": "NONE",
         "step_id": 4,
         "task_id": "0014"
