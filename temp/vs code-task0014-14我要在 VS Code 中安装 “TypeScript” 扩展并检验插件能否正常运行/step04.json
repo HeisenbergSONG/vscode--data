@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "14我要在 VS Code 中安装 “TypeScript” 扩展并检验插件能否正常运行",
-        "step_description": "未发现相关插件,ERROR,无法进行下一步操作。",
+        "step_description": "当前安装'Path Intellisense'扩展失败，无法进行下一步操作。",
         "element": {
             "element_position": {
                 "x1": 1435,
