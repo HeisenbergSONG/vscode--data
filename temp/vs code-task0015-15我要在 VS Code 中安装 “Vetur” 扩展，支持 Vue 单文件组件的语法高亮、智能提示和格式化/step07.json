@@ -1,0 +1,25 @@
+{
+    "name": "step07_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "15我要在 VS Code 中安装 “Vetur” 扩展，支持 Vue 单文件组件的语法高亮、智能提示和格式化",
+        "step_description": "0000",
+        "element": {
+            "element_position": {
+                "x1": 6,
+                "y1": 56,
+                "x2": 64,
+                "y2": 112
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 7,
+        "task_id": "0015"
+    }
+}

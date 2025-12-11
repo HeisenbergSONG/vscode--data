@@ -1,0 +1,17 @@
+{
+    "name": "step08_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "13我要在 VS Code 中安装 “Markdown Preview Enhanced” 扩展并检验插件能否正常运行",
+        "step_description": "当前为'我要在 VS Code 中安装 “Markdown Preview Enhanced” 扩展并检验插件能否正常运行'结果页面",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "step_id": 8,
+        "task_id": "0013"
+    }
+}

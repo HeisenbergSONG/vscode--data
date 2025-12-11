@@ -1,0 +1,25 @@
+{
+    "name": "step02_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "11我要在 VS Code 中安装 “Path Intellisense” 扩展并检验安装是否成功",
+        "step_description": "0000",
+        "element": {
+            "element_position": {
+                "x1": 411,
+                "y1": 110,
+                "x2": 440,
+                "y2": 134
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 2,
+        "task_id": "0011"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "step04_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "13我要在 VS Code 中安装 “Markdown Preview Enhanced” 扩展并检验插件能否正常运行",
+        "step_description": "0000",
+        "element": {
+            "element_position": {
+                "x1": 77,
+                "y1": 155,
+                "x2": 479,
+                "y2": 254
+            }
+        },
+        "status": "Continue",
+        "tag": "Uncertain_bbx",
+        "action": "LEFT_CLICK",
+        "value": "NONE",
+        "step_id": 4,
+        "task_id": "0013"
+    }
+}

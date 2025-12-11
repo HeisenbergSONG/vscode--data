@@ -1,0 +1,17 @@
+{
+    "name": "step09_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "12我要在 VS Code 中安装 “JSON Formatter” 扩展，用于格式化 app.json 文件的代码结构使其更易阅读并检验插件能否正常运行",
+        "step_description": "当前为'我要在 VS Code 中安装 “JSON Formatter” 扩展，用于格式化 app.json 文件的代码结构使其更易阅读'的结果页面",
+        "status": "Finish",
+        "tag": "Normal",
+        "action": "Finish",
+        "value": "NONE",
+        "step_id": 9,
+        "task_id": "0012"
+    }
+}

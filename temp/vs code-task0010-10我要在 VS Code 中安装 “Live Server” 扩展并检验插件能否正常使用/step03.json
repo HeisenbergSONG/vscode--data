@@ -1,0 +1,25 @@
+{
+    "name": "step03_ori.png",
+    "resolution": {
+        "width": 2560,
+        "height": 1440
+    },
+    "task_info": {
+        "task_description": "10我要在 VS Code 中安装 “Live Server” 扩展并检验插件能否正常使用",
+        "step_description": "0000",
+        "element": {
+            "element_position": {
+                "x1": 103,
+                "y1": 103,
+                "x2": 439,
+                "y2": 138
+            }
+        },
+        "status": "Continue",
+        "tag": "Normal",
+        "action": "TYPE",
+        "value": "Live Server",
+        "step_id": 3,
+        "task_id": "0010"
+    }
+}
