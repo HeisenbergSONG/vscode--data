@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "10我要在 VS Code 中安装 “Live Server” 扩展并检验插件能否正常使用",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击右下角的“Go Live”按钮,该按钮位于屏幕右下角带有'Live Server'字样,以启动 Live Server .",
         "element": {
             "element_position": {
                 "x1": 2370,

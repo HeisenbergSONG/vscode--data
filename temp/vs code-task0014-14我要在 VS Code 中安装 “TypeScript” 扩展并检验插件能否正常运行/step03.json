@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "14我要在 VS Code 中安装 “TypeScript” 扩展并检验插件能否正常运行",
-        "step_description": "0000",
+        "step_description": "在搜索框中输入'TypeScript',该按钮位于屏幕左上角,扩展视图的顶部,用于搜索扩展。",
         "element": {
             "element_position": {
                 "x1": 101,

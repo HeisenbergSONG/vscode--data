@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "15我要在 VS Code 中安装 “Vetur” 扩展，支持 Vue 单文件组件的语法高亮、智能提示和格式化",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击扩展市场图标按钮,该按钮位于屏幕左侧,图标为四个方块组成的图案,用于打开扩展市场面板",
         "element": {
             "element_position": {
                 "x1": 7,

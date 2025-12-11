@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "11我要在 VS Code 中安装 “Path Intellisense” 扩展并检验安装是否成功",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击扩展市场第一个插件图标按钮,该按钮位于屏幕左上角,插件市场第一个,用于打开第一个插件的详情页。",
         "element": {
             "element_position": {
                 "x1": 75,

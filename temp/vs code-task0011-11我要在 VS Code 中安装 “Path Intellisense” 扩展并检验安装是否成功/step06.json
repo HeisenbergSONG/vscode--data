@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "11我要在 VS Code 中安装 “Path Intellisense” 扩展并检验安装是否成功",
-        "step_description": "0000",
+        "step_description": "该插件未知原因,无法访问安装页面,出现错误页面。",
         "element": {
             "element_position": {
                 "x1": 1096,
@@ -17,7 +17,7 @@
         },
         "status": "Continue",
         "tag": "Error",
-        "action": "HOVER",
+        "action": "NONE",
         "value": "[1096,582,1446,737]",
         "step_id": 6,
         "task_id": "0011"

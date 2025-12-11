@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "12我要在 VS Code 中安装 “JSON Formatter” 扩展，用于格式化 app.json 文件的代码结构使其更易阅读并检验插件能否正常运行",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击'安装'按钮,该按钮位于屏幕中间偏上,更改日志右上角的按钮,用于安装“JSON Formatter”扩展。",
         "element": {
             "element_position": {
                 "x1": 842,

@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "11我要在 VS Code 中安装 “Path Intellisense” 扩展并检验安装是否成功",
-        "step_description": "0000",
+        "step_description": "在搜索框中输入“Path Intellisense”,该搜索框位于屏幕左上角,扩展市场面板的顶部,用于搜索扩展。",
         "element": {
             "element_position": {
                 "x1": 100,

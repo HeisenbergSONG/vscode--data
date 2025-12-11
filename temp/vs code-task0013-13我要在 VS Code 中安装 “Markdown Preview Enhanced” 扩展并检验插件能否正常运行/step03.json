@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "13我要在 VS Code 中安装 “Markdown Preview Enhanced” 扩展并检验插件能否正常运行",
-        "step_description": "0000",
+        "step_description": "输入文本'Markdown Preview Enhanced'到搜索框中,该搜索框位于屏幕左上角,扩展视图的顶部,用于搜索扩展。",
         "element": {
             "element_position": {
                 "x1": 95,

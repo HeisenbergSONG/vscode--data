@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "10我要在 VS Code 中安装 “Live Server” 扩展并检验插件能否正常使用",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击'信任发布者和安装'按钮,位于屏幕中央,弹窗底部带有'信任发布者和安装'文字的按钮,用来信任该扩展的发布者并安装该扩展.",
         "element": {
             "element_position": {
                 "x1": 1201,

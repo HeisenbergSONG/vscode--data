@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "10我要在 VS Code 中安装 “Live Server” 扩展并检验插件能否正常使用",
-        "step_description": "0000",
+        "step_description": "鼠标左键点击'允许'按钮,该按钮位于屏幕中央,用于允许vscode使用网络.",
         "element": {
             "element_position": {
                 "x1": 1081,

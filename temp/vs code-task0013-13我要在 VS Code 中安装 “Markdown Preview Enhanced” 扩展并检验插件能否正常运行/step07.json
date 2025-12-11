@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "13我要在 VS Code 中安装 “Markdown Preview Enhanced” 扩展并检验插件能否正常运行",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击左侧活动栏中的资源管理器图标,该图标位于屏幕左侧,文件夹图标,用于打开资源管理器面板。",
         "element": {
             "element_position": {
                 "x1": 6,

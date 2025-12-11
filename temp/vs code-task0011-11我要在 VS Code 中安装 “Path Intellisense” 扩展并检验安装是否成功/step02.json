@@ -6,7 +6,7 @@
     },
     "task_info": {
         "task_description": "11我要在 VS Code 中安装 “Path Intellisense” 扩展并检验安装是否成功",
-        "step_description": "0000",
+        "step_description": "鼠标左键单击删除按钮,该按钮位于屏幕左上角,扩展详情页面的顶部,图标为一个带有叉号的文档图标,用于删除输入框的内容。",
         "element": {
             "element_position": {
                 "x1": 411,
